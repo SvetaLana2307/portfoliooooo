@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfoliooooo/static/css/main.92e632a1.css",
+    "main.js": "/portfoliooooo/static/js/main.de1ac3a8.js",
+    "static/media/pepega-hackermans.gif": "/portfoliooooo/static/media/pepega-hackermans.33fd2b046fc7180d5493.gif",
+    "static/media/froggie.jpeg": "/portfoliooooo/static/media/froggie.e9e14d48e1da409bae33.jpeg",
+    "index.html": "/portfoliooooo/index.html",
+    "main.92e632a1.css.map": "/portfoliooooo/static/css/main.92e632a1.css.map",
+    "main.de1ac3a8.js.map": "/portfoliooooo/static/js/main.de1ac3a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92e632a1.css",
+    "static/js/main.de1ac3a8.js"
+  ]
+}
